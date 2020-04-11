@@ -1,0 +1,9 @@
+Active SC 55
+Removed Minor 25
+Removed PWD 100
+Active Student 30
+Active Birthday 12
+Active philHealth 75
+Active SingleLadies 5
+Active SingleBoy 75
+

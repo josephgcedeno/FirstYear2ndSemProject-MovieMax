@@ -1,0 +1,8 @@
+Available HD CaptainMarvel 100 100 C1
+Available 3D CaptainMarvel 100 90 C5
+Available HD Avengers4 140 150 C8
+Available 3D Avengers4 100 12 C5
+Available HD DareDevil 140 101 C5
+Available 3D DareDevil 140.0 149
+Available HD BlackWidow 140 150 C2
+Available 3D BlackWidow 100 100 C2

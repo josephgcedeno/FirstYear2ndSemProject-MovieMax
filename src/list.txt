@@ -1,0 +1,17 @@
+123 Nacar CS 1st-Year
+124 Naca CS 1st-Year
+125 Nac CS 1st-Year
+126 Na CS 1st-Year
+127 N CS 1st-Year
+128 Taois IT 1st-Year
+129 Taoi IT 1st-Year
+110 Tao IT 1st-Year
+111 Ta IT 1st-Year
+112 T IT 1st-Year
+113 Humans IS 1st-Year
+114 Human IS 1st-Year
+115 Huma IS 1st-Year
+116 Hum IS 1st-Year
+117 Hu IS 1st-Year
+
+
